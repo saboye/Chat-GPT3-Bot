@@ -21,6 +21,8 @@
 
   <p align="justify">The Chat-GPT3-Bot is a simple chat bot designed to generate course descriptions based on a given course title and subject. It utilizes the GPT-3 API from OpenAI and the Flask web framework to provide this functionality. By inputting a course title and subject, the Chat-GPT3-Bot will generate a course description that is based on the given input. This description may include details such as the course goals, topics covered, and intended audience, among others. The Chat-GPT3-Bot is a useful tool for quickly generating descriptions for courses, and it is simple to use with just a few input fields and a button to generate the description. </p>
   
+  [live demo](https://samuelaboye.pythonanywhere.com/)
+  
   # Requirements
   - Flask
   - OpenAI API key
