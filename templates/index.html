@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<head>
+  <title>OpenAI Quickstart</title>
+  <link rel="shortcut icon" href="{{ url_for('static', filename='frog.png') }}" />
+  <link rel="stylesheet" href="{{ url_for('static', filename='main.css') }}" />
+</head>
+<body>
+  <h3>I am the Course Description Generator Bot. <br>Trust me and tell me the subject and title, and <br>I will give you a good course description </h1>
+    <img src="{{ url_for('static', filename='frog.png') }}" class="frog" />
+    <form method="post">
+      <label for="course_title">Course Title:</label>
+      <input type="text" id="course_title" name="course_title">
+      <label for="course_subject">Course Subject:</label>
+      <input type="text" id="course_subject" name="course_subject">
+      <br>
+      <input type="submit" value="Generate Description">
+    </form> {% if result %} <div class="result">Course Description:&nbsp;&nbsp;{{ result }}</div>
+    <button id="clear-button" type="button">Clear</button> {% else %} <style>
+      #clear-button {
+        display: none;
+      }
+    </style>
+    <div id="no_result"></div> {% endif %} <script>
+   
+      document.getElementById("clear-button").addEventListener("click", function() {
+        var resultElement = document.getElementsByClassName("result")[0];
+        if (resultElement.innerHTML === "") {
+          clearButton.style.display = "hdden";
+        } else {
+          resultElement.innerHTML = "";
+          resultElement.style.display = "none";
+        }
+      });
+    </script>
+</body>
