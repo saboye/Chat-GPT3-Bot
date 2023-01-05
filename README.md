@@ -6,7 +6,7 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/saboye/Chat-GPT3-Bot?color=blue&logo=github&style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/saboye/Chat-GPT3-Bot?logo=github&style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues-raw/saboye/Chat-GPT3-Bot?style=for-the-badge)
-![GitHub](https://img.shields.io/github/license/saboye/Chat-GPT3-Bot?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/saboye/Chat-GPT3-Bot?label=license&style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/saboye/Chat-GPT3-Bot?style=for-the-badge)
 
 
