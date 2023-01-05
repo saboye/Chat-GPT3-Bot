@@ -1,6 +1,6 @@
 
 
-### <h1 align="center" style="color:blue;" id="heading">Chat-GPT3-Bot</h1>
+### <h1 align="center" style="color:blue;" id="heading">Chat GPT3 Bot</h1>
 
 
 ![GitHub contributors](https://img.shields.io/github/contributors/saboye/Chat-GPT3-Bot?color=blue&logo=github&style=for-the-badge)
