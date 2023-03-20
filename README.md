@@ -2,12 +2,25 @@
 
 ### <h1 align="center" style="color:blue;" id="heading">Chat GPT3 Bot</h1>
 
+<p align="center">
+  <img src="https://img.shields.io/github/contributors/saboye/Chat-GPT3-Bot?color=blue&logo=github&style=for-the-badge" alt="GitHub contributors">
+  <img src="https://img.shields.io/github/forks/saboye/Chat-GPT3-Bot?logo=github&style=for-the-badge" alt="GitHub forks">
+  <img src="https://img.shields.io/github/issues-raw/saboye/Chat-GPT3-Bot?style=for-the-badge" alt="GitHub issues">
+  <img src="https://img.shields.io/github/license/saboye/Chat-GPT3-Bot?label=license&style=for-the-badge" alt="GitHub license">
+  <img src="https://img.shields.io/github/last-commit/saboye/Chat-GPT3-Bot?style=for-the-badge" alt="GitHub last commit">
+  <img src="https://img.shields.io/badge/Chat-GPT3-brightgreen?style=for-the-badge&logo=openai" alt="Chat GPT3">
+  <img src="https://img.shields.io/badge/Framework-Flask-blue?style=for-the-badge&logo=flask" alt="Flask">
+  <img src="https://img.shields.io/badge/Powered%20by-OpenAI-brightgreen?style=for-the-badge&logo=openai" alt="OpenAI">
+  <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/Language-JavaScript-yellow?style=for-the-badge&logo=javascript" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Language-HTML-orange?style=for-the-badge&logo=html5" alt="HTML">
+  <img src="https://img.shields.io/badge/Language-CSS-blue?style=for-the-badge&logo=css3" alt="CSS">
+</p>
 
-![GitHub contributors](https://img.shields.io/github/contributors/saboye/Chat-GPT3-Bot?color=blue&logo=github&style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/saboye/Chat-GPT3-Bot?logo=github&style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues-raw/saboye/Chat-GPT3-Bot?style=for-the-badge)
-![GitHub](https://img.shields.io/github/license/saboye/Chat-GPT3-Bot?label=license&style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/saboye/Chat-GPT3-Bot?style=for-the-badge)
+
+
+
+
 
 
 <!-- PROJECT LOGO -->
